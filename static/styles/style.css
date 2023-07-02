@@ -1,0 +1,18 @@
+body{
+    background-image: url("img/lain.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+a{
+    color: #2272FF;
+}
+h1{
+    font-family: 'Batman';
+}
+@font-face {
+    font-family: 'Batman';
+    src: url('fonts/batmfa__.ttf'), url('fonts/batmfo__.ttf') format('truetype'),;
+    font-weight: normal;
+    font-style: normal;
+}
